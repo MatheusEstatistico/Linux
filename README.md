@@ -1,2 +1,2 @@
-# linux
-Esse repositório é o registro de um estatístico entrando no mundo linux, focado na ciência de dados, no uso profissional e pessoal. Vale lembrar que sou iniciante na área de sistemas operacionais e hardware.
+# Linux
+O início dessa mudança começa no dia `08/07/2026`, decidi mundar do windows de uma vez por todas. 
