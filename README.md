@@ -16,6 +16,9 @@ Então, uma série de noticias começaram a chamar minha atenção:
 
 Foi então que essa ideia de que praticamente tudo o que uso no computador pessoal está sendo, ou será em breve, usado para treinar LLM's (popularmente IA). Então, assistindo a esse vídeo do [XXX](), descobri que essa é uma preocupação grande de muitas pessoas ligadas a ... 
 
+Dessa forma, a solução era trocar de sistema operacional...
+
+
 # Conteúdos e Tutoriais
 
 ### Sites Gerais
