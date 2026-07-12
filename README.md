@@ -3,4 +3,4 @@ O início dessa mudança começa no dia `08/07/2026`, decidi mundar do windows d
 
 ## Debian
 
-Se todos os caminhos levam a Roma, todas as distribuições levam ao [Debian](). 
+Se todos os caminhos levam a Roma, todas as distribuições levam ao [**Debian**](https://www.debian.org/). Desde o ano de XXXX, uma grande comunidade mundial desenvolve e mantem um sistema operacional com a principal premissa de ser *universal*.
