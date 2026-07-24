@@ -15,7 +15,8 @@ Só que fui percebendo que na verdade o que estava deixando o PC lento e travand
 Funcionou durante bastante tempo, só que de tempos em tempos acontecia alguma atualização que fugia do meu leigo controle piorava tudo de novo. No fim das contas, parecia que tudo era pra me transformar num "funcinoario treinador de LLM" para a microsoft. Foi então que essa ideia de que praticamente tudo o que uso no computador pessoal está sendo, ou será em breve, usado para treinar LLM's começou a me incomodar de forma definitiva, o Chris Titus fez um [***vídeo***](https://www.youtube.com/watch?v=01Hee3AXbLg) sobre a queda do windows que é muito bom.
 
 # Distribuições
-O linux é um universo enorme, existem inumeras distribuições que formam sistemas operacionais com grandes comunidades e com vários inúitos. Esse vídeo do [Canal Tecnologia e Classe](https://www.youtube.com/watch?v=tMD26DQGaVg) (TeClas) é bem interessante sobre qual escolher.
+O linux é um universo enorme, existem inumeras distribuições que formam sistemas operacionais com grandes comunidades e com vários inúitos. Esse vídeo do [Canal Tecnologia e Classe](https://www.youtube.com/watch?v=tMD26DQGaVg) (TeClas) é bem interessante sobre qual escolher. 
+
 Apesar de não ser o mais indicado para iniciantes eu escolhi o Debian... 
 
 ### Debian
