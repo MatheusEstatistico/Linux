@@ -17,10 +17,10 @@ Funcionou durante bastante tempo, só que de tempos em tempos acontecia alguma a
 # Distribuições
 O linux é um universo enorme, existem inumeras distribuições que formam sistemas operacionais com grandes comunidades e com vários inúitos. Esse vídeo do [Canal Tecnologia e Classe (TeClas)](https://www.youtube.com/watch?v=tMD26DQGaVg) é bem interessante sobre qual escolher.
 
-Escolhi o Debian... 
+Apesar de não ser o mais indicado para iniciantes eu escolhi o Debian... 
 
 ### Debian
-Se todos os caminhos levam a Roma, todas as distribuições levam ao [**Debian**](https://www.debian.org/). Desde o ano de XXXX, uma grande comunidade mundial desenvolve e mantem um sistema operacional com a principal premissa de ser *universal*.
+Se todos os caminhos levam a Roma, todas as distribuições levam ao [**Debian**](https://www.debian.org/). Desde o ano de 1993, uma grande comunidade mundial desenvolve e mantem um sistema operacional com a principal premissa de ser *universal*.
 
 
 
