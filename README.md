@@ -8,7 +8,7 @@ Sempre usei Windows, comecei pelo XP, usei o Vista, depois o 7, pulei o 8 pois a
 - GPU: 
 - RAM: 
 - MEMÓRIA: 
-- PLACA MÃE: 
+- PLACA MÃE:
 
 Só que fui percebendo que na verdade o que estava deixando o PC lento e travando não era só a idade dele (sempre cuidei minimanente direito). Era o caminhão de porcarias que a microsoft colocava a cada atualização. Primeiro eu tentei desativar o que parecia excessivo nas configurações, depois descobri o [Chris Titus](https://christitus.com/) que me apresentou o conceito de *Windows Debloat* que é o processo de remover "coisas" pré-instaladas e desativar recursos descenessários que ficam rodando em segundo plano, como telemetria e serviços de rastreamento. Ele ensina nesse [***vídeo***](https://www.youtube.com/watch?v=yKydZFJRzMk&t=222s) como fazer. 
 
