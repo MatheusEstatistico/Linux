@@ -17,7 +17,7 @@ Funcionou durante bastante tempo, só que de tempos em tempos acontecia alguma a
 # Distribuições
 O linux é um universo enorme, existem inumeras distribuições que formam sistemas operacionais com grandes comunidades e com vários inúitos. Esse vídeo do [Canal Tecnologia e Classe](https://www.youtube.com/watch?v=tMD26DQGaVg) (TeClas) é bem interessante sobre qual escolher. 
 
-Apesar de não ser o mais indicado para iniciantes eu escolhi o Debian... 
+Apesar de não ser o mais indicado para iniciantes eu escolhi o *Debian*... 
 
 ### Debian
 Se todos os caminhos levam a Roma, todas as distribuições levam ao [**Debian**](https://www.debian.org/). Desde o ano de 1993, uma grande comunidade mundial desenvolve e mantem um sistema operacional com a principal premissa de ser *universal*. Ele é muito leve e vem "vazio" você consegue controlar muito do que quer instalar ou não, isso torna o Debian pouco amigável para iniciantes como eu. Mas, ao mesmo tempo, cria um desafio interessante e instigante para quem gosta de descobrir e aprender (especialmente sobre computação e programação).
