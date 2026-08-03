@@ -23,5 +23,5 @@ Apesar de não ser o mais indicado para iniciantes eu escolhi o *Debian*...
 Se todos os caminhos levam a Roma, todas as distribuições levam ao [**Debian**](https://www.debian.org/). Desde o ano de 1993, uma grande comunidade mundial desenvolve e mantem um sistema operacional com a principal premissa de ser *universal*. Ele é muito leve, vem quase "vazio", você consegue controlar muito do que quer instalar ou não, isso torna o Debian pouco amigável para iniciantes como eu. Mas, ao mesmo tempo, cria um desafio interessante e instigante para quem gosta de descobrir e aprender (especialmente sobre computação e programação). Vou registrar nesse diretório cada processo que estou passando durante o uso do Debian. 
 
 # Considerações Finais 
-Vale ressaltar que... 
+Vale ressaltar que para alguns usos específicos ou individuais o Linux pode exigir mais tempo ou mais esforço para fazer funcionar. ***Nem tudo é perfeito no Linux, ainda assim ele é infinitamente superior ao windows.***
 
