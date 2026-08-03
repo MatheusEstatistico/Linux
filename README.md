@@ -25,3 +25,5 @@ Se todos os caminhos levam a Roma, todas as distribuições levam ao [**Debian**
 # Considerações Finais 
 Vale ressaltar que para alguns usos específicos ou individuais o Linux pode exigir mais tempo ou mais esforço para fazer funcionar. ***Nem tudo é perfeito no Linux, ainda assim ele é infinitamente superior ao windows.***
 
+**P.S.**: Nunca usei macOS.
+
